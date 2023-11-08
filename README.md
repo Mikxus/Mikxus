@@ -1,5 +1,5 @@
 <h2 align="left">Hi there!</h2>
-<p3 align="left">Hi there! I’m a student who loves to tinker with code and explore new technologies. My public repositories include projects such as <a href="https://www.github.com/Mikxus/rISR">rISR</a> and <a href="https://www.github.com/Mixkus/SubEffects">SubEffects</a>. I’m passionate about audio visualization and exploring the potential of microcontrollers. When I’m not coding, you can find me studying or listening to music.</p3>
+<p3 align="left">I’m a student who loves to tinker with code and researching how things really work. My public repositories include projects such as <a href="https://www.github.com/Mikxus/rISR">rISR</a> and <a href="https://www.github.com/Mikxus/SubEffects">SubEffects</a>. I’m passionate about audio visualization and exploring the potential of microcontrollers. When I’m not coding, you can find me studying or listening to music.</p3>
 <br></br>
 
 <div align="center">
@@ -33,11 +33,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mikxus/Mikxus/output/snake.svg" alt="Snake animation" />
-
-###
